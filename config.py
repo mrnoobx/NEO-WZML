@@ -2,14 +2,12 @@
 #
 # Copy to `config.py` and fill in your values. `config.py` is git-ignored.
 # BOT_TOKEN, TELEGRAM_API, TELEGRAM_HASH, OWNER_ID, DATABASE_URL, BASE_URL,
-# UPSTREAM_REPO, UPSTREAM_BRANCH, AUTO_UPDATE and UPDATE_PKGS may also be set via env vars.
-
-# REQUIRED
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""  # mongodb:// or mongodb+srv:// URI
+BOT_TOKEN = "8603405436:AAE9Yi0J7AOkyB_vGWulBkkVN1uY1xHtvt8"
+OWNER_ID = 8565045255
+TELEGRAM_API = 22419004
+TELEGRAM_HASH = "34982b52c4a83c2af3ce8f4fe12fe4e1"
+DATABASE_URL = "mongodb+srv://VishnuJs:sfphtBLg@cluster0.lku9w7d.mongodb.net/?appName=Cluster0"
+                          # Require restart after changing it while bot running:// or mongodb+srv:// URI
 
 # General
 DEFAULT_LANG = "en"
