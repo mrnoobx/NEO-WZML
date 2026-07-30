@@ -190,7 +190,7 @@ SEARCH_PLUGINS = [
 ]
 
 # Self-update
-UPSTREAM_REPO = "https://github.com/irisXDR/NEO-WZML"
+UPSTREAM_REPO = "https://github.com/mrnoobx/NEO-WZML"
 UPSTREAM_BRANCH = "master"
 AUTO_UPDATE = False
 UPDATE_PKGS = True
